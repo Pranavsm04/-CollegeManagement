@@ -3,3 +3,5 @@ Student Name: Pranav S M
 Roll Number: 030
 Department: CSD
 Semester: 5
+Attendance: 92%
+Result: Pass
